@@ -1,0 +1,59 @@
+body{
+    
+    margin-left: 5%;
+    margin-right: 5%;
+    
+}
+
+h1{
+    color:maroon;
+    text-align: center;
+}
+
+#update{
+    display: none;
+}
+
+table{
+    width:100%;
+    text-align: center;
+   
+}
+
+th{
+    background-color:green;
+    height: 35px;
+    color: white;
+    
+}
+
+
+tr{
+    
+    background-color:slategray;
+}
+tr:nth-child(even){
+    background-color: lightgray;
+}
+
+
+tr:hover{
+    background-color: lightgray;
+    color: whitesmoke;
+}
+
+img{
+    width:20px;
+    height:20px;
+}
+
+
+input{
+    width:150px;
+    height:20px;
+    border:1px solid black;
+}
+
+button{
+    background-color: powderblue;
+}
